@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-29T08:23:40 IST" name="Default suite" finished-at="2022-09-29T08:23:41 IST" duration-ms="128">
+    <groups>
+    </groups>
+    <test started-at="2022-09-29T08:23:40 IST" name="Default test" finished-at="2022-09-29T08:23:41 IST" duration-ms="128">
+      <class name="com.automationtesting.testngconcepts.OrangeHRMLoginUsingTestNGConcept">
+        <test-method signature="launchURL()[pri:0, instance:com.automationtesting.testngconcepts.OrangeHRMLoginUsingTestNGConcept@4e096385]" started-at="2022-09-29T08:23:40 IST" name="launchURL" finished-at="2022-09-29T08:23:40 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="launchbrowser()[pri:0, instance:com.automationtesting.testngconcepts.OrangeHRMLoginUsingTestNGConcept@4e096385]" started-at="2022-09-29T08:23:41 IST" name="launchbrowser" finished-at="2022-09-29T08:23:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="login()[pri:0, instance:com.automationtesting.testngconcepts.OrangeHRMLoginUsingTestNGConcept@4e096385]" started-at="2022-09-29T08:23:41 IST" name="login" finished-at="2022-09-29T08:23:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:0, instance:com.automationtesting.testngconcepts.OrangeHRMLoginUsingTestNGConcept@4e096385]" started-at="2022-09-29T08:23:41 IST" name="logout" finished-at="2022-09-29T08:23:41 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="sendMail()[pri:0, instance:com.automationtesting.testngconcepts.OrangeHRMLoginUsingTestNGConcept@4e096385]" started-at="2022-09-29T08:23:41 IST" name="sendMail" finished-at="2022-09-29T08:23:41 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendMail -->
+        <test-method signature="tearDown()[pri:0, instance:com.automationtesting.testngconcepts.OrangeHRMLoginUsingTestNGConcept@4e096385]" started-at="2022-09-29T08:23:41 IST" name="tearDown" finished-at="2022-09-29T08:23:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationtesting.testngconcepts.OrangeHRMLoginUsingTestNGConcept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
