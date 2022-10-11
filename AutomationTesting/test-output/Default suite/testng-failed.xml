@@ -3,16 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.automationtesting.testngconcepts.LetCodeTest">
+      <class name="com.automationtesting.inheritancetestNG.TestScripts">
         <methods>
-          <include name="courseContent"/>
-          <include name="login"/>
-          <include name="logOff"/>
-          <include name="url"/>
-          <include name="tearnDown"/>
-          <include name="launchBrowser"/>
+          <include name="setUP"/>
+          <include name="ninjaLogin"/>
+          <include name="afterTest"/>
+          <include name="tearDown"/>
+          <include name="OrangeHrmLogin" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.automationtesting.testngconcepts.LetCodeTest -->
+      </class> <!-- com.automationtesting.inheritancetestNG.TestScripts -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
